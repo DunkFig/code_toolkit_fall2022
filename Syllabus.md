@@ -1,22 +1,22 @@
-## Code Toolkit: Javascript and P5JS, Spring 2022 – LCOD 2010 – Dan Moore
+## Code Toolkit: Javascript and P5JS, Fall 2022 – LCOD – Duncan Figurski
 
 ### Introductory Beep Boops
 
-* Who: Dan Moore, dan@makeitdoathing.com
+* Who: Duncan Figurski, figud577@newschool.edu
 
-* What: Code Toolkit: Javascript and P5.JS, Spring 2022 – LCOD 2010
+* What: Code Toolkit: Javascript and P5.JS, Fall 2022 – LCOD
 
-* When: Tuesday, 4:00 – 6:40pm
+* When: Friday, 9:00AM – 11:40AM
 
-* Where: 6 East 16th Street Room: 605
+* Where: Johnson/Kaplan 66 West 12th Street, Room: 518
 
-### Office hours: Tuesday, 2-4pm or by Zoom as needed (email me and we can set something up)
+### Office hours: Friday, 12:00-2pm or by Zoom as needed (email me and we can set something up)
 
-This course provides a basic introduction to coding for students with no prior experience using the P5.js Javascript Programing Environment. It will introduce the use of computing and algorithms to web adesign, data analysis and visualization, and game design. Students will complete integrative projects within each of these areas, and leave the class with a strong foundation in the use of P5js across a range of applications. Access to a working laptop will be expected throughout the semester. This course fulfills the Integrative Course requirement of the Culture and Media major.
+This course provides a basic introduction to coding for students with no prior experience using the P5.js Javascript Programing Environment. It will introduce the use of computing and algorithms to web design, data analysis and visualization, and game design. Students will complete integrative projects within each of these areas, and leave the class with a strong foundation in the use of P5js across a range of applications. Access to a working laptop will be expected throughout the semester. This course fulfills the Integrative Course requirement of the Culture and Media major.
 
 ## Class Github & Email
 
-Rather than using Canvas this semester we will be using this [github repo](https://github.com/danzeeeman/code_toolkit_S2022).  ___Please bookmark that URL and refer back to it often___. 
+Rather than using Canvas this semester we will be using this [github repo](https://github.com/DunkFig/code_toolkit_fall2022).  ___Please bookmark that URL and refer back to it often___. 
 
 All deadlines, reading materials, project tutorials, and other course materials will be posted here on the github. You will be using Google Docs, Google Drive, and other platforms to submit your project work and reading responses. The repo will include links to these resources and instructions on how to submit work.
 
@@ -46,7 +46,7 @@ contributions to student work sharing, and questions via office hours and email.
 
 ## Weekly homework exercises
 
-You will have weekly homework assignments comprised of coding exercises. They will be due the morning before class on Tuesday at 12pm, and you will submit as a zip to my New School Email address ```moored1@newschool.edu```.  Homeworks will be graded as pass/fail, on a scale of 0 or 1, based on effort. You will not be evaluated weekly on whether your code runs perfectly or has bugs, but rather on whether you engaged the topic and made progress. Occasionally I may give a fraction of a point (e.g. .85) to indicate that the level of completeness is not quite enough. Late submissions will be marked down, but submitting something is always better than submitting nothing, even if late. I will try my best to keep on posting homework grades throughout the semester, but if I fall behind, at the time of the midterm and final I will get caught up so you know where you stand. If at any time you would like more feedback * about one piece of work specifically or about your standing in the class overall * ___please do not hesitate to ask___.
+You will have weekly homework assignments comprised of coding exercises. They will be due the night before class on Thursday at 12am. Assignments will be completed on the online p5 web editor, and then linked to this page (https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing). Homeworks will be graded as pass/fail, on a scale of 0 or 1, based on effort. You will not be evaluated weekly on whether your code runs perfectly or has bugs, but rather on whether you engaged the topic and made progress. Occasionally I may give a fraction of a point (e.g. .85) to indicate that the level of completeness is not quite enough. Late submissions will be marked down, but submitting something is always better than submitting nothing, even if late. I will try my best to keep on posting homework grades throughout the semester, but if I fall behind, at the time of the midterm and final I will get caught up so you know where you stand. If at any time you would like more feedback * about one piece of work specifically or about your standing in the class overall * ___please do not hesitate to ask___.
 
 Even though the weekly homework is mainly graded pass/fail, notice from the Final Grade Calculation above that it represents the largest fraction of your final grade. The best way to do well in terms of grading will be to keep up with the weekly homework, and if you don’t keep up with the homework it will be difficult to end up with a high grade. The reason I’ve structured things this way is because I have found that the best way for you to do well in terms of learning is also to keep up with the weekly homework. Our semester will proceed through small steps, but we’ll take those steps fairly quickly, and the topics will be like incremental blocks that build on each other, so make sure you understand the concept each week in order to be sure next week will make sense.
 
@@ -54,7 +54,7 @@ Even though the weekly homework is mainly graded pass/fail, notice from the Fina
 
 We also have readings and videos about every week weeks. These are indicated in the course schedule below and will be posted to the class github. You will be asked to submit a short reading response of about 150 words that mainly consists of quotes from the text that you wish to highlight and some questions or comments based on those passages. These will be submitted in a shared [Google Doc](https://docs.google.com/document/d/1EVALM_XbkDWo0Y4u45wBYwqAE9h1CCWQFeBrmGzN7p8). I will also pose questions in the Google Doc to serve as a prompt to guide your reading and responses. Like the weekly programming exercises, these will also be due at 12pm the morning before class and will also be graded pass/fail.
 
-## [READING DISCUSSION GOOGLE DOC](https://docs.google.com/document/d/1mZeyjKicprIcDLHriPR3u19A-r9DTYlfPIC0iXvcp58)
+## [READING DISCUSSION GOOGLE DOC]()
 
 ### Projects
 
