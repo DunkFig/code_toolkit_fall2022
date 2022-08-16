@@ -1,10 +1,10 @@
-## Code Toolkit: Javascript and P5JS, Fall 2022 – LCOD – Duncan Figurski
+## Code Toolkit: Javascript and P5JS, Fall 2022 – LCOD 2013 – Duncan Figurski
 
 ### Introductory Beep Boops
 
 * Who: Duncan Figurski, figud577@newschool.edu
 
-* What: Code Toolkit: Javascript and P5.JS, Fall 2022 – LCOD
+* What: Code Toolkit: Javascript and P5.JS, Fall 2022 – LCOD 2013 - CRN: 14417
 
 * When: Friday, 9:00AM – 11:40AM
 
