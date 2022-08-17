@@ -5,7 +5,7 @@
 I want to schedule Virtual 1:Ones with everyone in the class periodically throughout the semester.  These informal chats will help me gage progress, help with confusion, and help me get to know each of you a bit better. 
 
 ## Office Hours
-SCHEDULE OFFICE HOURSE [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRIDAY 12:00PM - 2:00PM. (If none of these times work just email me and we'll find another time :) )
+SCHEDULE OFFICE HOURS [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRIDAY 12:00PM - 2:00PM. (If none of these times work just email me and we'll find another time :) )
 
 ## Slack
 I invited you all to our slack and to our channel.  If I have missed anyone please let me know right now!  Please sign up as it is a way to contact me directly about issues with homework or readings. 
