@@ -203,7 +203,7 @@ function setup(){
 * [MOCK HOMEWORK EXAMPLE](https://docs.google.com/document/d/1Etdai-04MDy5KyH65QThOP9h9gtS8VfgzLv2AEY1ywU/edit?usp=sharing)
 
 ## Week 01 Homework
-* Read Chapter 1 (pages 18-55) of [The Language of New Media](pdfs/mcluhan.mediummessage.pdf](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf) by Lev Manovich.
+* Read Chapter 1 (pages 18-55) of [The Language of New Media](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf) by Lev Manovich.
 * Write a response (250-300 words)
 * Create an image with p5.js that uses at least one:
     - [Ellipse](https://p5js.org/reference/#/p5/ellipse)
