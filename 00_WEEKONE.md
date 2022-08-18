@@ -4,6 +4,8 @@
  - [Resources / Inspiration](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Resources_Inspiration)
  - [Class 01 Shared Doc]()
 
+___If I am ever going to fast or you have any questions please interrupt me and ask a question___
+
 ## Introduction
 ### Background, context, and goals
 At its core, the objective of this class is to teach you how to create software, and in the process to uncover how an embodied, hands-on practice creating software affords you new insights into how software operates unto itself, and how it interfaces with the world by shaping and mediating other social and cultural activities.
@@ -51,8 +53,8 @@ There were some things that many of your drawing instructions did that we will s
 - We will be using the [P5.js web editor](https://editor.p5js.org/) to code and share our 'sketches'.
 - [Here](https://p5js.org/reference/) is the P5.js reference page. Please bookmark this page you'll probably be opening it a lot.
 
-___If I am ever going to fast or you have any questions please interrupt me and ask a question___
 
+### Let's start with a Simple Program:
 
 ```
 function setup(){
