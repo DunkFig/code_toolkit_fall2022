@@ -1,12 +1,11 @@
 # __CODE TOOLKIT FALL 2022__
-# Week One Lecture Notes
+# Week One
 
 ## Descriptive Drawing Excercise
 
 
 ## Syllabus Review
 [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
-
 
 ## One on One
 I want to schedule Virtual 1:Ones with everyone in the class periodically throughout the semester.  These informal chats will help me gage progress, help with confusion, and help me get to know each of you a bit better. 
@@ -18,6 +17,7 @@ SCHEDULE OFFICE HOURS [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRID
 I invited you all to our slack and to our channel.  If I have missed anyone please let me know right now!  Please sign up as it is a way to contact me directly about issues with homework or readings. 
 
 ## Examples / Inspiration
+
 
 ## __5-10 min break__
 
