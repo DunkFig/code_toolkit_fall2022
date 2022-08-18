@@ -190,7 +190,15 @@ function setup(){
 ```
 
 
-## Home Work
+# Home Work
+## How to submit:
+* If responding to a reading type up your response in a Google Doc.
+* If Working on code, use the [P5.js Web Editor](https://editor.p5js.org/)
+* Copy theses links and paste them into the [HOMEWORK ROSTER] (https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
+* Homework is due midnight the night before class.
+* For certain Assignments I'll ask you to email me directly.
+
+## Week 01 Homework
 * Read Marshall McLuhan's [The Medium is the Message](pdfs/mcluhan.mediummessage.pdf)
 * _Extra Credit Readings & Watching_ 
   * The Critical Engineering Working Group's [THE CRITICAL ENGINEERING MANIFESTO](https://criticalengineering.org) [pdf](https://criticalengineering.org/ce.pdf)
@@ -198,4 +206,3 @@ function setup(){
   * Read Casey Reas et al. [{Sofrware} Structures](https://artport.whitney.org/commissions/softwarestructures/text.html#structure)
   * Check out 2 [examples](https://p5js.org/examples/)
 
-this is a change
