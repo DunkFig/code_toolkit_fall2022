@@ -58,7 +58,7 @@ rect(50,50,200,200)
 - The horizontal dimension is always specified first and is referred to as x, and the vertical dimension is always specified second and is referred to as y.
 - x increases as you move to the right, and y increases as you move down.
 
-![grid-10-10](https://user-images.githubusercontent.com/111362862/185502020-3e5e7e2c-631e-492e-9ea1-6a47747d2178.png  | width=100)
+![grid-10-10](https://user-images.githubusercontent.com/111362862/185502020-3e5e7e2c-631e-492e-9ea1-6a47747d2178.png | width=100)
 
 
 So in the following example, what are the coordinates of this pixel?
