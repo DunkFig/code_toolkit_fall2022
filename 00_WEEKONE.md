@@ -194,7 +194,7 @@ function setup(){
 ## How to submit:
 * If responding to a reading type up your response in a Google Doc.
 * If Working on code, use the [P5.js Web Editor](https://editor.p5js.org/)
-* Copy theses links and paste them into the [HOMEWORK ROSTER] (https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
+* Copy theses links and paste them into the [HOMEWORK ROSTER](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
 * Homework is due midnight the night before class.
 * For certain Assignments I'll ask you to email me directly.
 
