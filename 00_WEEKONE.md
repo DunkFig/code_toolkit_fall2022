@@ -122,6 +122,7 @@ fill(150,150,255,50)
 rect(50,50,200,200)
 ellipse(250,250,50,50)
 }
+```
 
 Notice that the overlap is slightly darker.
 Drawing order is also important. Intructions are followed from top down, first things first. Lower commands are run later. This means that later drawn shapes will be drawn as if layerd on top of earlier ones. So it's like making a collage: the things that you place down later will be on top.
@@ -164,11 +165,14 @@ I will try my best to also use this formatting when specifying code in my emails
 You don't need to always create drawings in this way. You can also load "raster" images into your sketch, and draw them directly into the window. If you've ever done any HTML, this is similar to the way images are included in web pages.
 
 To draw it, use the following code:
+
 ```
 function setup(){
 img = loadImage("YOUR-IMAGE-FILENAME.jpg")
 image(img, 0, 0)
 }
+```
+
 The 0, 0 specifies the x and y location of where in the window to place the image. If you want to control the size of the image, modify the 2nd line to look like this:
 image(img, 0, 0, 50, 25)
 In this case, the image would be 50 pixels wide and 25 pixels tall.
