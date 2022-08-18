@@ -200,16 +200,17 @@ function setup(){
 * Copy a link to your google doc into the [HOMEWORK ROSTER](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
 * Homework is due midnight the night before class.
 * For certain Assignments I'll ask you to email me directly.
+* [MOCK HOMEWORK EXAMPLE](https://docs.google.com/document/d/1Etdai-04MDy5KyH65QThOP9h9gtS8VfgzLv2AEY1ywU/edit?usp=sharing)
 
 ## Week 01 Homework
-* Read Marshall McLuhan's [The Medium is the Message](pdfs/mcluhan.mediummessage.pdf)
+* Read Chapter 1 (pages 18-55) of [The Language of New Media](pdfs/mcluhan.mediummessage.pdf](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf) by Lev Manovich.
+* Write a response (250-300 words)
 * Create an image with p5.js that uses at least one:
     - [Ellipse](https://p5js.org/reference/#/p5/ellipse)
     - [Triangle](https://p5js.org/reference/#/p5/triangle)
     - [Quadrangle](https://p5js.org/reference/#/p5/quad) 
     - [Rectangle](https://p5js.org/reference/#/p5/rect) with curved corners.
-    - Have fun and play with different colors!
-
+    - Each shape should be a different color.
 
 * _Extra Credit Readings & Watching_ 
   * The Critical Engineering Working Group's [THE CRITICAL ENGINEERING MANIFESTO](https://criticalengineering.org) [pdf](https://criticalengineering.org/ce.pdf)
