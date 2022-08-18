@@ -46,12 +46,14 @@ There were some things that many of your drawing instructions did that we will s
 - groups of commands: "draw another shape like you did in steps 1-4". In computer programs these are called functions and they are a way to make a group of instructions with a name for re-use
 
 ### Let's make a very simple example:
-'''
+```
+{
 size(300,300)
 stroke(0,0,255)
 fill(0,255,0)
 rect(50,50,200,200)
-'''
+}
+```
 
 Click File > New > Save. This creates a new folder for this sketch. Note the location. It is probably in a folder called Processing in your Document folder Give the sketch a name and click "Save".
 2D drawing basics (a.k.a 2D primitives)
