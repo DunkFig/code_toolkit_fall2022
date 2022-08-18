@@ -53,16 +53,17 @@ fill(0,255,0)
 rect(50,50,200,200)
 }
 ```
+[Lets Look at this in the Editor](https://editor.p5js.org/dunkFig/sketches/TaRUMIeJC)
 
 - In p5.js, we mainly draw using coordinates. Keep in mind a grid where the top-left corner is 0,0. 
 - The horizontal dimension is always specified first and is referred to as x, and the vertical dimension is always specified second and is referred to as y.
 - x increases as you move to the right, and y increases as you move down.
 
-![grid-10-10](https://user-images.githubusercontent.com/111362862/185502020-3e5e7e2c-631e-492e-9ea1-6a47747d2178.png | width=100)
-
+![grid-10-10](https://user-images.githubusercontent.com/111362862/185502020-3e5e7e2c-631e-492e-9ea1-6a47747d2178.png)
 
 So in the following example, what are the coordinates of this pixel?
 
+![grid-10-10-pixel](https://user-images.githubusercontent.com/111362862/185502428-e9b21e8e-ba75-404f-a848-1c4aa678bc16.png)
 
 Highlight this text for an answer: x=2, y=3. Remember, we start counting from 0.
 What about in this example: what are the coordinates of this pixel?
