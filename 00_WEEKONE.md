@@ -1,5 +1,12 @@
-# __CODE TOOLKIT SPRING 2022__
+# __CODE TOOLKIT FALL 2022__
 # Week One Lecture Notes
+
+## Descriptive Drawing Excercise
+
+
+## Syllabus Review
+[Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
+
 
 ## One on One
 I want to schedule Virtual 1:Ones with everyone in the class periodically throughout the semester.  These informal chats will help me gage progress, help with confusion, and help me get to know each of you a bit better. 
@@ -10,35 +17,19 @@ SCHEDULE OFFICE HOURS [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRID
 ## Slack
 I invited you all to our slack and to our channel.  If I have missed anyone please let me know right now!  Please sign up as it is a way to contact me directly about issues with homework or readings. 
 
-## ___Technology as a Medium___
-- SAAS, Software as a Service
-- Bank Software aka B2B
-- Advertising and _how they track you_ 
-- Bots, Botnets, and Hacking for Fun and Profit
-- Interactivity & Arting, with a Computer
-## Computing, Outside of ___Computer Science___
-### _Poetic Computing_
-* Madeline Gannon, [*Mimus*](https://atonaton.com/mimus/)
-* Design I/O, [*Mimic*](https://www.design-io.com/projects/mimic) & [*Connected Worlds*](https://www.design-io.com/projects/connectedworlds)
-* Golan Levin, [*Ghost Pole Propagator I*](http://flong.com/archive/projects/gpp/index.html) & [*Ghost Pole Propagator II*](http://flong.com/archive/projects/gpp-ii/index.html)
-* Kyle McDonald and Jonas Jongejan, [*Light Leaks*](https://vimeo.com/66167082)
-* Acne-studios-x-Robbie-Barrat, [Fall/Winter 2020](https://xrgoespop.com/home/acne-studios-x-robbie-barrat)
-### _Social Justice, Protests, Hacktivism, Jouralism, and Critical Hot Takes but also art_
-* Sam Lavigne, [Database of ICE employee LinkedIn accounts](https://www.theverge.com/2018/6/19/17480912/github-ice-linkedin-scraping-employees)
-* The Markup, [COVID in Amazon Warehouses](https://github.com/the-markup/investigation-amazon-covid)
-* Kyle McDonald, [Ethereum Emissions: A Bottom-up Estimate](https://kylemcdonald.github.io/ethereum-emissions/)
-* Adam Harvey [CV Dazzle](https://cvdazzle.com)  
-* The Critical Engineering Working Group [The Deep Sweep](https://criticalengineering.org/projects/deep-sweep/)
-* Julian Oliver [Stealth Cell Tower](https://julianoliver.com/output/stealth-cell-tower.html)
+## Examples / Inspiration
 
 ## __5-10 min break__
-# Introductory Beep Boops 
-## How we Work: The P5js Development Environment ("PDE")
-We are going to read a lot of code this semester and we are going to code things together in class as a class.  I will prep examples and they will be hosted on the p5js editor or in the examples folder.
+
+## Our Set Up:
+- We will be using the [P5.js web editor](https://editor.p5js.org/) to code and share our 'sketches'.
+- [Here](https://p5js.org/reference/) is the P5.js reference page. Please bookmark this page you'll probably be opening it a lot.
 
 
 ___If I am ever going to fast or you have any questions please interrupt me and ask a question___
-## [Hello World](https://editor.p5js.org/danzeeeman/sketches/yyrHi9CAJ)
+
+
+## [Hello World](   )
 
 With p5js we start with:
 ```
