@@ -5,14 +5,10 @@
 
 ## [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
 
-## One on One
-I want to schedule Virtual 1:Ones with everyone in the class periodically throughout the semester.  These informal chats will help me gage progress, help with confusion, and help me get to know each of you a bit better. 
-
 ## Office Hours
 SCHEDULE OFFICE HOURS [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRIDAY 12:00PM - 2:00PM. (If none of these times work just email me and we'll find another time :) )
 
-## Slack
-I invited you all to our slack and to our channel.  If I have missed anyone please let me know right now!  Please sign up as it is a way to contact me directly about issues with homework or readings. 
+I want to schedule Virtual One on Ones with everyone in the class periodically throughout the semester.  These informal chats will help me guage progress, help with confusion, and help me get to know each of you a bit better. 
 
 ## Examples / Inspiration
 
@@ -22,7 +18,6 @@ I invited you all to our slack and to our channel.  If I have missed anyone plea
 ## Our Set Up:
 - We will be using the [P5.js web editor](https://editor.p5js.org/) to code and share our 'sketches'.
 - [Here](https://p5js.org/reference/) is the P5.js reference page. Please bookmark this page you'll probably be opening it a lot.
-
 
 ___If I am ever going to fast or you have any questions please interrupt me and ask a question___
 
