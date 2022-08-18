@@ -54,11 +54,12 @@ rect(50,50,200,200)
 }
 ```
 
-Click File > New > Save. This creates a new folder for this sketch. Note the location. It is probably in a folder called Processing in your Document folder Give the sketch a name and click "Save".
-2D drawing basics (a.k.a 2D primitives)
-The basic commands to draw shapes are called 2D primitives
-In Processing, we mainly draw using coordinates. Keep in mind a grid where the top-left corner is 0,0. The horizontal dimension is always specified first and is referred to as x, and the vertical dimension is always specified second and is referred to as y.
-x increases as you move to the right, and y increases as you move down.
+- In p5.js, we mainly draw using coordinates. Keep in mind a grid where the top-left corner is 0,0. 
+- The horizontal dimension is always specified first and is referred to as x, and the vertical dimension is always specified second and is referred to as y.
+- x increases as you move to the right, and y increases as you move down.
+
+![grid-10-10](https://user-images.githubusercontent.com/111362862/185500703-61863e5b-f5b7-4280-aecc-e14d883f5826.png)
+
 
 So in the following example, what are the coordinates of this pixel?
 
