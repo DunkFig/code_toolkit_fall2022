@@ -58,12 +58,13 @@ There were some things that many of your drawing instructions did that we will s
 
 ```
 function setup(){
+createCanvas(400,400)
 stroke(0,0,255)
 fill(0,255,0)
 rect(50,50,200,200)
 }
 ```
-[Lets Look at this in the Editor](https://editor.p5js.org/dunkFig/sketches/TaRUMIeJC)
+[Lets Look at this in the editor](https://editor.p5js.org/dunkFig/sketches/TaRUMIeJC)
 
 - In p5.js, we mainly draw using coordinates. Keep in mind a grid where the top-left corner is 0,0. 
 - The horizontal dimension is always specified first and is referred to as x, and the vertical dimension is always specified second and is referred to as y.
@@ -75,8 +76,11 @@ So in the following example, what are the coordinates of this pixel?
 
 ![grid-10-10-pixel](https://user-images.githubusercontent.com/111362862/185502428-e9b21e8e-ba75-404f-a848-1c4aa678bc16.png)
 
-Highlight this text for an answer: x=2, y=3. Remember, we start counting from 0.
+Answer: x=2, y=3. 
+Remember, we start counting from 0.
 What about in this example: what are the coordinates of this pixel?
+
+![grid-big](https://user-images.githubusercontent.com/111362862/185506721-6ff2e576-862e-4ea8-8902-b7c3adc51470.png)
 
 Please don't actually count all those pixels! Let's just approximate. Maybe, x=30 and y=15? That seems about right.
 Computers require us to be precise. But we can comply with that precision while also being loose and approximate in achieving the goals that we're working toward. We can leave space to play, experiment, estimate, and work by trial-and-error.
@@ -87,59 +91,84 @@ The numbers in parenthesis are called parameters and their order is very importa
 Color is specified using red, green and blue components, called RGB color. Tools > Color Selector gives you a helpful tool for selecting colors.
 You can also use hue, saturation and brightness, called HSB color, if you specify that with the colorMode() command. Let's modify the above example:
 
-(Changed code will always be in orange with a thin dashed underline.)
-size(300,300)
+```
+function setup(){
+createCanvas(400,400)
 stroke(0,0,255)
 fill(150,150,255)
 rect(50,50,200,200)
+}
+```
+
 You can always add a fourth argument to any color commands to specify alpha which is a common digital media term that means transparency: how see-through a digital image is.
-(New code will always be in blue with a dotted underline.)
-size(300,300)
+
+```
+function setup(){
+createCanvas(400,400)
 stroke(0,0,255)
 fill(150,150,255,50)
 rect(50,50,200,200)
+}
+```
+
 That might not seem very different but if we add a new shape it should be more apparent:
-size(300,300)
+
+
+```
+function setup(){
+createCanvas(400,400)
 stroke(0,0,255)
 fill(150,150,255,50)
 rect(50,50,200,200)
 ellipse(250,250,50,50)
+}
+
 Notice that the overlap is slightly darker.
 Drawing order is also important. Intructions are followed from top down, first things first. Lower commands are run later. This means that later drawn shapes will be drawn as if layerd on top of earlier ones. So it's like making a collage: the things that you place down later will be on top.
 Let's add a third shape and remove the transparency to see what I mean:
 
-size(300,300)
+```
+function setup(){
 stroke(0,0,255)
 fill(150,150,255,255) # 255 as alpha is equivalent to totally opaque
 rect(50,50,200,200)
 ellipse(250,250,50,50)
 triangle(250,250,250,300,300,250)
-Some syntax rules
-Parenthesis must always come in pairs, open and closed: ( )
-Processing will try to help you with text highlighting and helpful error messages. If you are confused, check the reference for relevant examples.
-Comments are also an important part of coding. They are how you communicate with others (and with yourself in the future!) about what your code does. There are two ways to add comments in Python:
-# Using a hashtag symbol creates a single line comment, like this
-Single-line comments can also start midway through a line
-rect(10,10,10,10)  # like this
-"""
-  Using three quotation marks, you can create a comment for a block of
-  text, like this. Use this at the top of your files to include your
-  name, date, and what this code is for (such as homework week number
-  or project)
-"""
-Some comments on lecture note format & style
-Throughout all my lecture notes this semester, I will indicate Processing code by highlighting it in light blue and using a fixed-width font, like so:
+```
+
+### Some syntax rules
+- Parenthesis must always come in pairs, open and closed: ( )
+- p5.js will try to help you with text highlighting and helpful error messages. If you are confused, check the reference for relevant examples.
+- Comments are also an important part of coding. They are how you communicate with others (and with yourself in the future!) about what your code does. There are two ways to add comments in Javascript:
+Using two backslash symbols // creates a single line comment, like this:
+
+```
+// I'm commenting this out
+```
+
+You can also highlight a block of code and press 'control + /' to comment it all out
+
+### Some comments on lecture note format & style
+Throughout all my lecture notes this semester, I will indicate P5.js code by highlighting it in light blue and using a fixed-width font, like so:
+```
+function setup(){
+createCanvas(400,400)
 rect(250,250,100,50)
-Whenever text is formatted in this way, it is valid Python Processing syntax. You should be able to copy/paste it into your PDE. I will try my best to also use this formatting when specifying code in my emails, but I can't promise total consistency there as that can get quite tedious.
-When my notes are working through an example by making incremental changes, I will help you spot these changes: modified code will always be in orange with a thin dashed underline and new code will always be in blue with a dotted underline.
-In prose text (normal, non-code writing) I will use a bold typeface to indicate special keywords that will form the basis of our shared, technical discourse this semester. I advise you to carefully commit these to memory (perhaps consider using flashcards or whatever works for you). Use them when speaking about code with me, with your classmates, and with others. Cultivating a fluency with this technical jargon is as much a part of becoming a programmer as learning programming language syntax. (I will also use italics merely for emphasis.)
-A note on accessibility: I have tried to make these formatting rules as accessible as possible to everyone with all types of seeing abilities. If you have trouble distinguishing these formats for any reason, please let me know and I'd be happy to work with you to make sure they are easily discernible.
-Raster images
-Raster Images. You don't need to always create drawings in this way. You can also load "raster" images into your sketch, and draw them directly into the window. If you've ever done any HTML, this is similar to the way images are included in web pages.
-Go to Sketch > Add File, then browse to the image file you want to add and click "Open" . This adds the image file to your sketch directory but does not actually draw it.
+}
+```
+Whenever text is formatted in this way, it is valid P5.js syntax. You should be able to copy/paste it into your editor. 
+I will try my best to also use this formatting when specifying code in my emails, but I can't promise total consistency there as that can get quite tedious.
+
+
+### Raster images
+You don't need to always create drawings in this way. You can also load "raster" images into your sketch, and draw them directly into the window. If you've ever done any HTML, this is similar to the way images are included in web pages.
+
 To draw it, use the following code:
+```
+function setup(){
 img = loadImage("YOUR-IMAGE-FILENAME.jpg")
 image(img, 0, 0)
+}
 The 0, 0 specifies the x and y location of where in the window to place the image. If you want to control the size of the image, modify the 2nd line to look like this:
 image(img, 0, 0, 50, 25)
 In this case, the image would be 50 pixels wide and 25 pixels tall.
