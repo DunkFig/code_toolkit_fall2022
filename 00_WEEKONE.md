@@ -2,7 +2,7 @@
 
 
  - [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
- - [Resources / Inspiration]()
+ - [Resources / Inspiration](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Resources_Inspiration)
 
 
 ## __5-10 min break__
