@@ -45,7 +45,15 @@ There were some things that many of your drawing instructions did that we will s
 - questions or conditions: "if the shape is not closed, keep drawing". In computer programs these are called conditionals
 - groups of commands: "draw another shape like you did in steps 1-4". In computer programs these are called functions and they are a way to make a group of instructions with a name for re-use
 
-### Let's make a very simple example:
+## Let's start programming:
+
+### Our Set Up:
+- We will be using the [P5.js web editor](https://editor.p5js.org/) to code and share our 'sketches'.
+- [Here](https://p5js.org/reference/) is the P5.js reference page. Please bookmark this page you'll probably be opening it a lot.
+
+___If I am ever going to fast or you have any questions please interrupt me and ask a question___
+
+
 ```
 function setup(){
 stroke(0,0,255)
@@ -142,12 +150,6 @@ Some programs are fun or helpful to use, some are tools that allow you to create
   
 
 ## __5-10 min break__
-
-## Our Set Up:
-- We will be using the [P5.js web editor](https://editor.p5js.org/) to code and share our 'sketches'.
-- [Here](https://p5js.org/reference/) is the P5.js reference page. Please bookmark this page you'll probably be opening it a lot.
-
-___If I am ever going to fast or you have any questions please interrupt me and ask a question___
 
 
 # Home Work
