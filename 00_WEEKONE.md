@@ -192,14 +192,25 @@ function setup(){
 
 # Home Work
 ## How to submit:
-* If responding to a reading type up your response in a Google Doc.
+* Create a Google Doc
+* Label it (FirstName_Week_#)
 * If Working on code, use the [P5.js Web Editor](https://editor.p5js.org/)
-* Copy theses links and paste them into the [HOMEWORK ROSTER](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
+* For any code that you work on, link it on the google doc with a small annotation. (Example: Self Portrait, using primitive shapes)
+* You should respond to the readings on this doc as well. 
+* Copy a link to your google doc into the [HOMEWORK ROSTER](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
 * Homework is due midnight the night before class.
 * For certain Assignments I'll ask you to email me directly.
 
 ## Week 01 Homework
 * Read Marshall McLuhan's [The Medium is the Message](pdfs/mcluhan.mediummessage.pdf)
+* Create an image with p5.js that uses at least one:
+    - [Ellipse](https://p5js.org/reference/#/p5/ellipse)
+    - [Triangle](https://p5js.org/reference/#/p5/triangle)
+    - [Quadrangle](https://p5js.org/reference/#/p5/quad) 
+    - [Rectangle](https://p5js.org/reference/#/p5/rect) with curved corners.
+    - Have fun and play with different colors!
+
+
 * _Extra Credit Readings & Watching_ 
   * The Critical Engineering Working Group's [THE CRITICAL ENGINEERING MANIFESTO](https://criticalengineering.org) [pdf](https://criticalengineering.org/ce.pdf)
   * Watch Zach Lieberman's talk at EYE0 2012 * https://vimeo.com/47203759?t=38m22s
