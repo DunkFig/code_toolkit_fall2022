@@ -1,9 +1,7 @@
 # __CODE TOOLKIT FALL 2022__
-# Week One
+## Week One
 
-## Descriptive Drawing Excercise
-
-## [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
+### [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
 
 ## Office Hours
 SCHEDULE OFFICE HOURS [HERE](https://calendar.app.google/ijii6sYBHRwy6xMv7) FRIDAY 12:00PM - 2:00PM. (If none of these times work just email me and we'll find another time :) )
