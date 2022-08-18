@@ -13,6 +13,8 @@
 
 ___If I am ever going to fast or you have any questions please interrupt me and ask a question___
 
+![grid-10-10-pixel](https://user-images.githubusercontent.com/111362862/185473387-e7f33692-ecaf-4f3a-957d-0af5db1be9ac.png)
+![grid-10-10](https://user-images.githubusercontent.com/111362862/185473418-84f47be8-8822-47ad-a0b3-7483628fd91e.png)
 
 # Home Work
 ## How to submit:
