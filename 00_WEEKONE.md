@@ -161,7 +161,7 @@ Whenever text is formatted in this way, it is valid P5.js syntax. You should be 
 I will try my best to also use this formatting when specifying code in my emails, but I can't promise total consistency there as that can get quite tedious.
 
 
-### Raster images
+<!-- ### Raster images
 You don't need to always create drawings in this way. You can also load "raster" images into your sketch, and draw them directly into the window. If you've ever done any HTML, this is similar to the way images are included in web pages.
 
 To draw it, use the following code:
@@ -181,7 +181,7 @@ Drawing like this seems tedious! Why would you ever want to do this?
 When you want to create something interactive, ie, something that responds to user input. Or when you want to create something with an inhuman amount of repetition. Or maybe when you want to process a large amount of data.
 Really, any time you want to create something dynamic ... Tools like Photoshop, Illustrator, and Final Cut are fantastic, but they create fixed, closed works. With programming you can produce a creation and imbue it with life.
 Maybe instead of drawing an illustration, you define rules to create that illustration, and you write a computer program to draw it. Then you can introduce variance or randomness into the system and instead of 1 drawing, now you have an entire world of drawings that are all similar but also different.
-Some programs are fun or helpful to use, some are tools that allow you to create things. When you are creating the program, you can create tools that allow other people to be creative.
+Some programs are fun or helpful to use, some are tools that allow you to create things. When you are creating the program, you can create tools that allow other people to be creative. -->
   
 
 ## __5-10 min break__
