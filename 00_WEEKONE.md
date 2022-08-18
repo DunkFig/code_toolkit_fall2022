@@ -4,7 +4,7 @@
  - [Resources / Inspiration](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Resources_Inspiration)
  - [Class 01 Shared Doc]()
 
-##Introduction
+## Introduction
 ### Background, context, and goals
 At its core, the objective of this class is to teach you how to create software, and in the process to uncover how an embodied, hands-on practice creating software affords you new insights into how software operates unto itself, and how it interfaces with the world by shaping and mediating other social and cultural activities.
 
@@ -47,8 +47,7 @@ There were some things that many of your drawing instructions did that we will s
 
 ### Let's make a very simple example:
 ```
-{
-size(300,300)
+function setup(){
 stroke(0,0,255)
 fill(0,255,0)
 rect(50,50,200,200)
