@@ -1,7 +1,7 @@
 # __CODE TOOLKIT FALL 2022__Week One
 
  - [Our Syllabus](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Syllabus.md)
- - [Resources / Inspiration](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/Resources_Inspiration)
+ - [Resources / Inspiration](https://github.com/DunkFig/code_toolkit_fall2022/blob/main/INPSO-RESOURCES.md)
  - [Class 01 Shared Doc]()
  - [Class 01 Slides](https://docs.google.com/presentation/d/1tsAd6iRFb9x5_nNPT3WagNZKw9hX8P-9kStmZuUNhu4/edit?usp=sharing)
 
