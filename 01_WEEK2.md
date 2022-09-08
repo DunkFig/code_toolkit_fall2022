@@ -198,6 +198,7 @@ image(img, x, y, [width], [height])
 - width Number: the width to draw the image (Optional)
 - height Number: the height to draw the image (Optional)
 
+### [Image Example](https://editor.p5js.org/dunkFig/sketches/wfPcLSoxi)
 
 ## New Draw Functions
 ### arc()
