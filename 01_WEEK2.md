@@ -103,12 +103,6 @@ You can store multiple types of data as a variable.
 - booleans ```True/False```  
 - and more complex data types (we'll get to that much later on in the course)
 
-
-[Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
-[Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
-[Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
-
-
 ### basic math && some new ideas
 * add (+)
   * 1 + 1 = 2
@@ -132,6 +126,18 @@ You can store multiple types of data as a variable.
   *  4 % 4 = 0
   *  5 % 4 = 1
   *  6 % 4 = 2
+
+
+Let look at this basic example where we replace all of the arguments for a rectangle with variables.
+[Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
+
+What if the variables got their values from small equations we wrote. 
+[Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
+
+Here's a more advanced example of how we can divide, multiply, add and subtract those variables on the fly.
+[Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
+
+
   
 ## ```random()```
 ```
