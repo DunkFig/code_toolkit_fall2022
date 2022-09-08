@@ -127,7 +127,7 @@ You can store multiple types of data as a variable.
   *  5 % 4 = 1
   *  6 % 4 = 2
 
-
+## Variable Class Examples
 Let look at this basic example where we replace all of the arguments for a rectangle with variables.
 [Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
 
@@ -164,7 +164,10 @@ function setup() {
 ```
 Stop and run that a few times to see what kinds of variation we've just created.
 
-[Random Sketch]()
+## Random Class Examples
+[Beginner Random Sketch (height & width)](https://editor.p5js.org/dunkFig/sketches/Az_-lWPpm)
+[Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
+[Advanced Random (Two Quads](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
 
 ## Loading Images 
 ```
