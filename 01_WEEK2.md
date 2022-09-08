@@ -2,25 +2,7 @@
 * Reading Discussion
 * [HomeWork Discussion](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
 * [Class 02 Slides]()
-* Variables
-* Arithmetic (+, -, *, /, %)
-* [BREAK]
-* Introduction to ```random()```
-* Loading Images
 
-
-
-## Review of what we've done so far
-```
-// All of our instructions are plase inside of the setup function or 'Block'
-function setup() {
-  createCanvas(500, 500);
-  noStroke()  
-
-  fill(255, 255, 0);
-  rect(0, 0, 250, 250);
-}
-```
 
 ## Variables    
 ### What is a variable?  
@@ -142,8 +124,8 @@ Here's a more advanced example of how we can divide, multiply, add and subtract 
 
 
   
-## ```random()```
-```
+## random()
+
  let r = random(50);
  stroke(r * 5);
  line(50, height/2, 50 + r, 0);
@@ -167,8 +149,8 @@ function setup() {
 ```
 Stop and run that a few times to see what kinds of variation we've just created.
 
-## Random Class Examples
 
+## Random Class Examples
 
 ### [Beginner Random Sketch (height & width)](https://editor.p5js.org/dunkFig/sketches/Az_-lWPpm)
 Here we look at how we can assign random values to a variable and use this to deteremine the height and width of a rectangle.
@@ -178,6 +160,7 @@ We can also assign random colors!
 
 ### [Advanced Random (Two Quads)](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
 A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
+
 
 ## Loading Images 
 
@@ -191,7 +174,6 @@ function setup() {
   image(img, 0, 0);
 }
 ```
-
 
 ### Drawing an Image
 ```
