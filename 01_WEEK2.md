@@ -129,13 +129,13 @@ You can store multiple types of data as a variable.
 
 ## Variable Class Examples
 Let look at this basic example where we replace all of the arguments for a rectangle with variables.
-[Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
+### [Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
 
 What if the variables got their values from small equations we wrote. 
-[Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
+### [Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
 
 Here's a more advanced example of how we can divide, multiply, add and subtract those variables on the fly.
-[Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
+### [Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
 
 
   
@@ -165,11 +165,17 @@ function setup() {
 Stop and run that a few times to see what kinds of variation we've just created.
 
 ## Random Class Examples
-[Beginner Random Sketch (height & width)](https://editor.p5js.org/dunkFig/sketches/Az_-lWPpm)
-[Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
-[Advanced Random (Two Quads](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
+Here we look at how we can assign random values to a variable and use this to deteremine the height and width of a rectangle.
+### [Beginner Random Sketch (height & width)](https://editor.p5js.org/dunkFig/sketches/Az_-lWPpm)
+
+We can also assign random colors!
+### [Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
+
+A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
+### [Advanced Random (Two Quads](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
 
 ## Loading Images 
+
 ```
 let img;
 function preload() {
@@ -181,23 +187,6 @@ function setup() {
 }
 ```
 
-### Preload
-
-```function preload()``` is automatically called before ```function setup()```.  When you want to use images in your ```function setup()``` you must load them within ```function preload()```.
-
-```
-function preload(){
-
-}
-```
-
-```
-let img = loadImage(path)
-```
-- path String: Path of the image to be loaded (this must be relative to your project directory)
-
-
-```loadImage(path)``` is a function that returns an image.  It must be called in ```function preload()``` and used to assign a variable if you want to use the image in the ```function setup()``` code block.
 
 ### Drawing an Image
 ```
