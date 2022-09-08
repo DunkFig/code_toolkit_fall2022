@@ -3,6 +3,11 @@
 * [HomeWork Discussion](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
 * [Class 02 Slides]()
 
+## Is there an Easier Way to place shapes?
+YES! I promise that this last assignment was the most grueling in terms of estimating where things are on the canvas.
+We will go through a variety of ways to place things on the canvas that are easier.
+I will breifly show you [this](https://editor.p5js.org/dunkFig/sketches/bx7SMdlNh) code example in class, but the concepts here are something were going to explore in more depth in the next class. 
+
 
 ## Variables    
 ### What is a variable?  
