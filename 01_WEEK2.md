@@ -172,7 +172,7 @@ We can also assign random colors!
 ### [Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
 
 A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
-### [Advanced Random (Two Quads](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
+### [Advanced Random (Two Quads)](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
 
 ## Loading Images 
 
