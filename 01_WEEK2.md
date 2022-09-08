@@ -1,14 +1,13 @@
 # Week 02 – Adding variance
 * Reading Discussion
-* HomeWork Discussion
-* [BREAK]
+* [HomeWork Discussion](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
+* [Class 02 Slides]()
 * Variables
 * Arithmetic (+, -, *, /, %)
+* [BREAK]
 * Introduction to ```random()```
 * Loading Images
-* [BREAK]
-* More Draw Functions
-* Homework Prep
+
 
 
 ## Review of what we've done so far
@@ -32,16 +31,6 @@ function setup() {
 
 
 #### _Who remembers algebra?_
-  ```
-  y = m * x + b aka the formula for a line
-  ```
-
-```Y``` is equal to the variable ```M``` times the variable ```X``` plus the variable ```B``` this gives us the forumla of a line where ```M``` defines the slope of the line and ```B``` define the point that the line crosses the ```Y``` axis, when ```x = 0```.
-
-  ```
-  a**2 + b**2 = c**2 aka Pythagorean Theorem
-  ```
-
 So lets talk about how you create a variable in code. The word for that is _declare_. 
 
 This is how you _declare_ a variable in p5.js.
@@ -53,6 +42,7 @@ let x;
 Before you can use a variable you have to assign it a value.
 
 This is how you _assign_ a variable in p5.js.
+
 ```
 let x; 
 x = 10;
@@ -82,6 +72,7 @@ function setup()
     print(x);
 }
 ```
+
 ### Variable Names 
 * must start with a letter or an underscore character
 * cannot start with a number
@@ -104,6 +95,7 @@ snake_case
 let make_it_mean_something_unique = 1;
 ```
 
+## Different Types of Data
 You can store multiple types of data as a variable.
 - strings ```"The platypus is my favorite animal but gosh are they meanies"```
 - floats ```0.01```
@@ -111,7 +103,10 @@ You can store multiple types of data as a variable.
 - booleans ```True/False```  
 - and more complex data types (we'll get to that much later on in the course)
 
-lets look at some [code](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
+
+[Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
+[Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
+[Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
 
 
 ### basic math && some new ideas
