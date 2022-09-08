@@ -13,7 +13,7 @@
 
 ## Review of what we've done so far
 ```
-// the setup function gets called to kick everything off
+// All of our instructions are plase inside of the setup function or 'Block'
 function setup() {
   createCanvas(500, 500);
   noStroke()  
@@ -62,7 +62,7 @@ or
 let x = 10;
 ```
 
-There are three places where you can _declare_ a variable
+### WHERE TO DECLARE A VARIABLE?
 
 - Inside a _function_ or a _code block_ which is called _local variables_
 
@@ -72,19 +72,6 @@ function setup()
     let x;
     print(x)
 }
-```
-
-- In the definition of function parameters which is called _parameters_
-```
-function setup()
-{
-    print(getValue(100));
-} 
-
-function getValue(t)
-{
-    return t*0.01;
-} 
 ```
 
 - Outside of all _functions_ which is called _global variables_
@@ -101,9 +88,7 @@ function setup()
 * can only contain alpha-numeric characters and underscores (A-Z, a-z, 0-9, and _)
 * are case-sensitive (treeheight, TREEHEIGHT, TreeHeight, and treeHeight are all different variables)
 
-![Matrix](images/matrix_var_names.jpg)
-
-My advice is 
+### Some ways to make variables more legible?
 
 ```
 camelCase
@@ -120,20 +105,16 @@ let make_it_mean_something_unique = 1;
 ```
 
 You can store multiple types of data as a variable.
-- strings ```"Yo Some Words"```
-- floats ```0.01f```
+- strings ```"The platypus is my favorite animal but gosh are they meanies"```
+- floats ```0.01```
 - integers  ```5```
 - booleans ```True/False```  
 - and more complex data types (we'll get to that much later on in the course)
 
-lets look at some [code](https://editor.p5js.org/danzeeeman/sketches/kAGXxWYRf)
+lets look at some [code](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
 
-### Tweaking Things Is Essential 
-![tweaking](images/changing-stuff.jpeg)
 
-## Arithmetic
-![basic_math](images/1zp2du.jpg)
-### basic math and some __funky__ _shit_
+### basic math && some new ideas
 * add (+)
   * 1 + 1 = 2
   * 1++ = 2
@@ -150,7 +131,6 @@ lets look at some [code](https://editor.p5js.org/danzeeeman/sketches/kAGXxWYRf)
   * 2**2 = 4
   * 3**4 = 81 
 * modulus (%) 
-  ![wft](images/1y62g6.jpg) 
   *  1 % 4 = 1
   *  2 % 4 = 2
   *  3 % 4 = 3
@@ -179,23 +159,11 @@ function setup() {
   createCanvas(600, 600);
   let squareWidth = random(10,300);
   let firstSquareHeight = random(10,300);
-
-  background(255);
-  noStroke()
-
-  fill(255, 100, 100, 100);
-  rect(250, 100, squareWidth, firstSquareHeight);
-
-  fill(255, 255, 100, 100);
-  rect(250, 100 + firstSquareHeight, squareWidth, 100);
-
-  fill(100, 100, 255, 100)
-  rect(250, 100 + firstSquareHeight + 100, squareWidth, 100);
 }
 ```
 Stop and run that a few times to see what kinds of variation we've just created.
 
-[Random Sketch](https://editor.p5js.org/danzeeeman/sketches/poHo3Q87_)
+[Random Sketch]()
 
 ## Loading Images 
 ```
@@ -237,75 +205,17 @@ image(img, x, y, [width], [height])
 - width Number: the width to draw the image (Optional)
 - height Number: the height to draw the image (Optional)
 
-# More Draw Functions
-### We've looked at these
-- triangle()
-- rect()
-- ellipse()
 
 ## New Draw Functions
 ### arc()
+
+
 ```
 arc(x, y, w, h, start, stop, [mode], [detail])
 ```
-- x Number: x-coordinate of the arc's ellipse
-- y Number: y-coordinate of the arc's ellipse
-- w Number: width of the arc's ellipse by default
-- h Number: height of the arc's ellipse by default
-- start Number: angle to start the arc, specified in radians
-- stop Number: angle to stop the arc, specified in radians
-- mode Constant: optional parameter to determine the way of drawing the arc. either CHORD, PIE or OPEN (Optional)
-- detail Integer: optional parameter for WebGL mode only. This is to specify the number of vertices that makes up the perimeter of the arc. Default value is 25. Won't draw a stroke for a detail of more than 50. (Optional)
 
-### circle()
-```
-circle(x, y, diameter);
-```
-- x Number: x-coordinate of the centre of the circle.
-- y Number: y-coordinate of the centre of the circle.
-- d Number: diameter of the circle.
+[Arc on p5 Reference Page] (https://p5js.org/reference/#/p5/arc)
 
-### line()
-```
-line(x1, y1, x2, y2);
-```
-- x1 Number: the x-coordinate of the first point
-- y1 Number: the y-coordinate of the first point
-- x2 Number: the x-coordinate of the second point
-- y2 Number: the y-coordinate of the second point
-
-### point()
-```
-point(x, y);
-```
-- x Number: the x-coordinate
-- y Number: the y-coordinate
-### quad()
-```
-quad(x1, y1, x2, y2, x3, y3, x4, y4, [detailX], [detailY]);
-```
-- x1 Number: the x-coordinate of the first point
-- y1 Number: the y-coordinate of the first point
-- x2 Number: the x-coordinate of the second point
-- y2 Number: the y-coordinate of the second point
-- x3 Number: the x-coordinate of the third point
-- y3 Number: the y-coordinate of the third point
-- x4 Number: the x-coordinate of the fourth point
-- y4 Number: the y-coordinate of the fourth point
-- detailX Integer: number of segments in the x-direction (Optional)
-- detailY Integer: number of segments in the y-direction (Optional)
-
-### square()
-```
-square(x, y, s, [tl], [tr], [br], [bl])
-```
-- x Number: x-coordinate of the square.
-- y Number: y-coordinate of the square.
-- s Number: side size of the square.
-- tl Number: optional radius of top-left corner. (Optional)
-- tr Number: optional radius of top-right corner. (Optional)
-- br Number: optional radius of bottom-right corner. (Optional)
-- bl Number: optional radius of bottom-left corner. (Optional)
 
 ## Homework
 * Read Lev Manovich's [The Language of New Media, Cambridge, MA: MIT Press, 2002. Chapter 1 (pages 18-55)](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf)
