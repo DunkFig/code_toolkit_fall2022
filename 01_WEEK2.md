@@ -214,7 +214,7 @@ image(img, x, y, [width], [height])
 arc(x, y, w, h, start, stop, [mode], [detail])
 ```
 
-[Arc on p5 Reference Page] (https://p5js.org/reference/#/p5/arc)
+[Arc on p5 Reference Page](https://p5js.org/reference/#/p5/arc)
 
 
 ## Homework
