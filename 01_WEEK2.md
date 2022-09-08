@@ -126,6 +126,7 @@ Here's a more advanced example of how we can divide, multiply, add and subtract 
   
 ## random()
 
+```
  let r = random(50);
  stroke(r * 5);
  line(50, height/2, 50 + r, 0);
