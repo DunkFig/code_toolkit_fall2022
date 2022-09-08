@@ -1,12 +1,16 @@
-# Week 2 – Adding variance
+# Week 02 – Adding variance
+* Reading Discussion
+* HomeWork Discussion
+* [BREAK]
 * Variables
 * Arithmetic (+, -, *, /, %)
-* [BREAK]
 * Introduction to ```random()```
 * Loading Images
 * [BREAK]
 * More Draw Functions
 * Homework Prep
+
+
 ## Review of what we've done so far
 ```
 // the setup function gets called to kick everything off
@@ -16,21 +20,8 @@ function setup() {
 
   fill(255, 255, 0);
   rect(0, 0, 250, 250);
-  
-  fill(255, 0, 255);
-  rect(250, 0, 250, 250);
-  
-  fill(255, 255, 0);
-  rect(250, 250, 250, 250);
-  
-  fill(255, 0, 255);
-  rect(0, 250, 250, 250);
 }
 ```
-### Drawing with numbers
-- [Hello Shapes](https://editor.p5js.org/danzeeeman/sketches/l21Ut52K6)
-### The Screen is a Grid
-- [Hello Grid](https://editor.p5js.org/danzeeeman/sketches/aiCnAxqRZ)
 
 ## Variables    
 ### What is a variable?  
@@ -38,6 +29,8 @@ function setup() {
 - A way to introduce variation on a theme, generalization within a formal structure, or the abstraction of some parts of a process. The word comes from vary like variety and variance, and means a thing that is able to change.
 - A variable is a placeholder. A placeholder for a value. Instead of using a specific value (like a number), you create a name, and then use that name in your code. When looking at your code, you don't know exactly what the value of that variable is. You can set it to a specific value, or change that value later. This means that one bit of code is now able to do different things.
 - A variable is a way to store something in memory so you can access it later in your code.
+
+
 #### _Who remembers algebra?_
   ```
   y = m * x + b aka the formula for a line
@@ -48,12 +41,6 @@ function setup() {
   ```
   a**2 + b**2 = c**2 aka Pythagorean Theorem
   ```
-#### _Did anyone take Physics?_
-  ```
-  force = mass * acceleration 
-  ```
-####  _Did anyone take Calculus?_
-
 
 So lets talk about how you create a variable in code. The word for that is _declare_. 
 
