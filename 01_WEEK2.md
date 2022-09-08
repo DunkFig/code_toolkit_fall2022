@@ -123,7 +123,7 @@ Let look at this basic example where we replace all of the arguments for a recta
 ### [Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
 What if the variables got their values from small equations we wrote. 
 
-
+### [Nested squares 1](https://editor.p5js.org/dunkFig/sketches/y7lLaozPA)
 ### [Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
 Here's a more advanced example of how we can divide, multiply, add and subtract those variables on the fly.
 
