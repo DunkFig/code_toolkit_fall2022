@@ -128,14 +128,17 @@ You can store multiple types of data as a variable.
   *  6 % 4 = 2
 
 ## Variable Class Examples
-Let look at this basic example where we replace all of the arguments for a rectangle with variables.
+
+
 ### [Variable Placeholder](https://editor.p5js.org/dunkFig/sketches/CCqXpRSc3)
+Let look at this basic example where we replace all of the arguments for a rectangle with variables.
 
-What if the variables got their values from small equations we wrote. 
 ### [Variables & Arithmetic](https://editor.p5js.org/dunkFig/sketches/g0zR2a5rm)
+What if the variables got their values from small equations we wrote. 
 
-Here's a more advanced example of how we can divide, multiply, add and subtract those variables on the fly.
+
 ### [Nested Squares](https://editor.p5js.org/dunkFig/sketches/EObf-UgEE)
+Here's a more advanced example of how we can divide, multiply, add and subtract those variables on the fly.
 
 
   
@@ -165,14 +168,16 @@ function setup() {
 Stop and run that a few times to see what kinds of variation we've just created.
 
 ## Random Class Examples
-Here we look at how we can assign random values to a variable and use this to deteremine the height and width of a rectangle.
+
+
 ### [Beginner Random Sketch (height & width)](https://editor.p5js.org/dunkFig/sketches/Az_-lWPpm)
+Here we look at how we can assign random values to a variable and use this to deteremine the height and width of a rectangle.
 
-We can also assign random colors!
 ### [Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
+We can also assign random colors!
 
-A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
 ### [Advanced Random (Two Quads)](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
+A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
 
 ## Loading Images 
 
@@ -208,11 +213,8 @@ image(img, x, y, [width], [height])
 arc(x, y, w, h, start, stop, [mode], [detail])
 ```
 
-[Arc on p5 Reference Page](https://p5js.org/reference/#/p5/arc)
+### [Arc on p5 Reference Page](https://p5js.org/reference/#/p5/arc)
 
 
 ## Homework
-* Read Lev Manovich's [The Language of New Media, Cambridge, MA: MIT Press, 2002. Chapter 1 (pages 18-55)](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf)
-  * For the PDF Page 18 of the book is really 29
-* Coding Assignment #1 __Solve LeWitt's Trapezoid__ 
-![Trapezoid](images/lewitt-trapezoid.jpeg)
+
