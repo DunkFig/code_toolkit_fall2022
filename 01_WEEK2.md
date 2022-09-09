@@ -1,7 +1,7 @@
 # Week 02 – Adding variance
 * Reading Discussion
 * [HomeWork Discussion](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit?usp=sharing)
-* [Class 02 Slides]()
+* [Class 02 Slides](https://docs.google.com/presentation/d/1tfQpFMTpcDzoExU_2GoSqeQ-zx47dU9ys-w94Y6PCWg/edit?usp=sharing)
 
 ## Is there an Easier Way to place shapes?
 YES! I promise that this last assignment was the most grueling in terms of estimating where things are on the canvas.
@@ -163,6 +163,9 @@ Here we look at how we can assign random values to a variable and use this to de
 
 ### [Random Colors](https://editor.p5js.org/dunkFig/sketches/ZizLxqX50)
 We can also assign random colors!
+
+### [4 squares](https://editor.p5js.org/dunkFig/sketches/iHguO_oks)
+Lets try testing out adding constraints to our randomness, can you make 4 squares appear in their own quadrants without intersecting?
 
 ### [Advanced Random (Two Quads)](https://editor.p5js.org/dunkFig/sketches/ruwHg5wMQ)
 A lot of the time we will want to try and create something random that fits within certain boundaries, this example explores creating a quad that has a random shape within the boundaries of a cube. 
