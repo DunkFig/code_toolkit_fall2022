@@ -208,4 +208,7 @@ arc(x, y, w, h, start, stop, [mode], [detail])
 
 
 ## Homework
-
+• Take the code you worked on for your last assignment or create a new picture.
+• Change a variety of the parameters that your using to designate shape and placement and turn them into variables. 
+• Base these sizes on 'height' and 'width' so even if you change the canvas size your image will appear in relative size to the canvas. 
+• Add some randomness into your image so that everytime you refresh the page your cat looks slightly different.
