@@ -1,0 +1,17 @@
+# Week 03
+
+This week were going to finally start animating some of our programs, adding interactivity, and using some more functions and variables which are part of p5.
+
+### First Lets review some of the things that we've gone over so far:
+- Cartesian Plane (Pixel coordinates)
+- The setup() code block or 'function'
+- RGBA values
+- Using 2d Primitives (rect, ellipses, line, etc...)
+- Using Variables (storing values inside of variables)
+- adding variables and dividing, using variables that are internal to p5 (height, width, mouseX)
+- Using the random function to add variability to our programs
+
+### LETS GET INTERACTIVE
+- First lets take a look at some interactive new media works:
+  - [Camille UtterBack, Untitled 05](http://camilleutterback.com/projects/untitled-5/)
+
