@@ -108,4 +108,34 @@ let arr = []
 arr[0] = 200
 ```
 
-All of the examples above are the same, and you'll want to use different ways of adding to arrays in different circumstances. 
+All of the examples above are the same, and you'll want to use different ways of adding to arrays in different circumstances. That last one might be a bit tricky and brings up something we haven't talked about before, how a computer counts! The first entry in our array is at index 0, the second number in our array is at index 1, and on and on. The way that we refer to a specific value is by referencing its array. Go ahead and console.log(arr[0]). 
+So we have lots of ways to add our four variables to this array, for the sake of simplicity lets go ahead and add them like this:
+
+```
+let arr = [200, 200, 200, 200]
+```
+
+But now that we have this array which is filled with different variables is there a way that we can access it inside of our while loop? Take a look and see if you can think of a way.
+
+- hmmmmmmm
+- hmmmmmmmmmmm
+- hmmmmmmmmmmmmmm
+- hmmmmmmmmmmmmmmmm
+- hmmmmmmmmmmmmmmmmmm
+- hmmmmmmmmmmmmmmmmmmmm
+
+```
+let arr = [200, 200, 200, 200];
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  let i = 0;
+  while (i <= 4) {
+    rect(50 + i * 50, arr[i], 50, 50);
+    i++;
+  }
+}
+```
