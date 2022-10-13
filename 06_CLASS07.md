@@ -92,4 +92,20 @@ let arr = []
 
 ```
 
-This is what you would call an empty array. By making *arr* equal to these two empty brackets I've told the computer that arr is in fact an array, but that right now it is empty. Anything that we put in between these brackets, as seperated by commas are whats inside our array. 
+This is what you would call an empty array. By making *arr* equal to these two empty brackets I've told the computer that arr is in fact an array, but that right now it is empty. Anything that we put in between these brackets, as seperated by commas are whats inside our array. We can add things inside of the arrray immediately or we can add things to the array after the fact.
+
+```
+let arr = [200]
+```
+
+```
+let arr = []
+arr.push(200)
+```
+
+```
+let arr = []
+arr[0] = 200
+```
+
+All of the examples above are the same, and you'll want to use different ways of adding to arrays in different circumstances. 
