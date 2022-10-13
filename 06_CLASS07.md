@@ -1,9 +1,9 @@
 
 # CLASS 07 (Lists and our own functions)
 ### Lets start off with some current events:
--[Imageine Science Film Festival]()
--[Mezzanine Play Through at the New Museum]()
--[My Deep Fake Dad]()
+- [Imageine Science Film Festival]()
+- [Mezzanine Play Through at the New Museum]()
+- [My Deep Fake Dad]()
 
 ### HOMEWORK
 [HomeWork Roster]()
@@ -17,8 +17,8 @@
 
 ### Refering to many things!
 Today we're going to finally be getting in to storing information which we can later refer to in our sketches. There are many ways and systems that we can use to store information, the array being the simplest way. First lets take a look at a few examples thhat use lists to refer to tons of variable and shapes at the same time. 
-[Flocking 2D]()
-[Flocking 3D (Gene Kogan)]()
+- [Flocking 2D]()
+- [Flocking 3D (Gene Kogan)]()
 
 ## HIP HIP ARRAY
 Today We're going to begin to play around with some of these ideas by using arrays, so lets start off with an example that we're somewhat familiar with:
@@ -84,3 +84,12 @@ function draw(){
 }
 
 ```
+OK this is great, but can anyone isolate a problem with this approach? Now all of our variables have the same value, but they could very easily have extremely different values. How could we refer to each and every one of these variables while still using the convenience of a while loop? This is where the magic of arrays come in. First lets go ahead and create an array so that we can hold all of these values in a list. Declaring our array is just like declaring any variable, depending on where we declare it it has a different **scope**. Just like we have global variables and local variables we can have arrays which are accesses locally or globally. We declare them much in the same way we'd declar a variable.
+
+```
+
+let arr = []
+
+```
+
+This is what you would call an empty array. By making *arr* equal to these two empty brackets I've told the computer that arr is in fact an array, but that right now it is empty. Anything that we put in between these brackets, as seperated by commas are whats inside our array. 
