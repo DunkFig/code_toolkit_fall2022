@@ -306,3 +306,6 @@ This is not easy, so great work on working through some of these problems today!
 
 ### [Moving Spheres](https://editor.p5js.org/dunkFig/sketches/i_yHJv26m)
 
+# HW
+## MIDTERMS DUE OCT 28th (20% of YOUR TOTAL GRADE)
+
