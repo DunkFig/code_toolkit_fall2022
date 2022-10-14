@@ -308,4 +308,5 @@ This is not easy, so great work on working through some of these problems today!
 
 # HW
 ## MIDTERMS DUE OCT 28th (20% of YOUR TOTAL GRADE)
+Please feel free to reach out for [office hours](https://calendar.app.google/CRGLaRZzQanAWFQ49). If none of these times work I can make more time!
 
