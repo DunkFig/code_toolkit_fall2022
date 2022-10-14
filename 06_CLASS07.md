@@ -1,12 +1,12 @@
 
 # CLASS 07 (Lists and our own functions)
 ### Lets start off with some current events:
-- [Imageine Science Film Festival]()
-- [Mezzanine Play Through at the New Museum]()
-- [My Deep Fake Dad]()
+- [Imageine Science Film Festival](https://www.imaginesciencefilms.org//ny15?gclid=CjwKCAjw7p6aBhBiEiwA83fGulcNFUchqNbW6FPrgzE2usZlyxqFJf1FwMwvCMbMJbRuPSmSmGyhMRoCI0kQAvD_BwE)
+- [Mezzanine Play Through at the New Museum](https://www.newmuseum.org/exhibitions/view/first-look-mezzanine)
+- [My Deep Fake Dad](https://www.culturehub.org/events/my-deepfake-dad)
 
 ### HOMEWORK
-[HomeWork Roster]()
+[HomeWork Roster](https://docs.google.com/spreadsheets/d/1oE-frETSfRk5mj9mkblAWrk3HGop5uMrPbmpaRO-pC0/edit#gid=0)
 
 ### MIDTERM IDEAS
 
@@ -17,8 +17,8 @@
 
 ### Refering to many things!
 Today we're going to finally be getting in to storing information which we can later refer to in our sketches. There are many ways and systems that we can use to store information, the array being the simplest way. First lets take a look at a few examples thhat use lists to refer to tons of variable and shapes at the same time. 
-- [Flocking 2D]()
-- [Flocking 3D (Gene Kogan)]()
+- [Flocking 2D](https://www.youtube.com/watch?v=tOv8JGA2-mM)
+- [Flocking 3D (Gene Kogan)](https://vimeo.com/39517129)
 
 ## HIP HIP ARRAY
 Today We're going to begin to play around with some of these ideas by using arrays, so lets start off with an example that we're somewhat familiar with:
