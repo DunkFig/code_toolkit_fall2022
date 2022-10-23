@@ -41,4 +41,4 @@ One aspect of this is to try to create something that fits this tool: something 
 
 Keep in mind all of our readings thus far, and think about how your project might function as example or evidence for those texts — i.e. something we might say that those theories apply to. But also, think about how your project and your process of making it can help you develop your own analysis and theories about how software functions, and perhaps demonstrate this understanding for others.
 
-## Individual Project that You've Ok'd with me. 
+## or a similar Project that You've Ok'd with me. 
