@@ -67,4 +67,9 @@ anything you put between them will be text that lives inside that div. If you wa
 Lets see how this looks in action, obviously we're going to be learning more about html, css, and javascript over the weeks to come, but I want you to play around with this example and see if you get some cool results.
 
 ## Navigate to this [Repo](https://github.com/DunkFig/DemoSite01)
+- Download the code by clicking on the green button and downloading a zip
+- Open this up in visual studios code
+- Play around with this and have some fun. 
+
+You can see what this site looks like **[here](
 
