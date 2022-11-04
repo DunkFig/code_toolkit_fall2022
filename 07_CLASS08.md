@@ -71,7 +71,7 @@ Lets see how this looks in action, obviously we're going to be learning more abo
 - Open this up in visual studios code
 - Play around with this and have some fun. 
 
-You can see what this site looks like **[here](https://dunkfig.github.io/DemoSite01/)
+You can see what this site looks like **[here](https://dunkfig.github.io/DemoSite01/)**
 
 # HW
 Theres no deliverable homework this week, just download this repo and have some fun, try and come to the next class with a website you might want to put online!
