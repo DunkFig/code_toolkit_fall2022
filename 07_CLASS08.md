@@ -24,3 +24,43 @@ Great! At this point we pretty much have everything we need to create a p5 sketc
 There you go! 
 - Click on the sketch file on the side and go ahead and write some code!
 
+
+### How can I use html and CSS on top of or below my sketch?
+The way we have been layering things in p5 is by adding them either later or earlier in the sketch, so that they are rendered in a particular order. 
+However you may want to layer HTML on top of a p5 sketch, or layer a p5 sketch on top of your html. In order to do this we're going to have to standardize the language that we use to refer to our sketch so that we can talk about it in our html file.
+
+We can do that by naming our createCanvas instance, and then parenting that instance to an HTML 'ID'
+
+```
+ let cnv = createCanvas(windowWidth, windowHeight);
+ cnv.parent('myContainer');
+```
+#### DIVS (html)
+What this code does is it allows us to add p5 to a div that has the ID 'myContainer', then whatever we do to that div will happen to our sketch.
+Next what we're going to have to do is navigate to our html and add a div that has an ID of 'myConatiner'. Lets do a quick review on divs before we do this.
+A div is essentially a distinct section of our html code that we can stylize in distinct ways. You can label these divs with an Id, which is reserved for labeling individual divs, or if you want a variety of divs to use the same stylization you can use classes. 
+
+```
+// Below is a standard div
+<div>    Anything I type here will be displayed on the page, and live in this div    </div>
+
+```
+
+You'll notice that there it is somewhat like our functions in that there are brackets to show the beginning and end, however they look different. The beginning of a div will look like this:
+
+```
+<div>
+```
+
+the end of a div will look like this:
+
+```
+</div>
+```
+
+anything you put between them will be text that lives inside that div. If you want to add an id or a class to your div you add it like this:
+
+```
+<div id='myContainer'>    Anything I type here will be displayed on the page, and live in this div    </div>
+<div class='funClass'>    Anything I type here will be displayed on the page, and live in this div but also its a class!    </div>                                                                
+```
