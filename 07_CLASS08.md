@@ -64,4 +64,7 @@ anything you put between them will be text that lives inside that div. If you wa
 <div id='myContainer'>    Anything I type here will be displayed on the page, and live in this div    </div>
 <div class='funClass'>    Anything I type here will be displayed on the page, and live in this div but also its a class!    </div>                                                                
 ```
+Lets see how this looks in action, obviously we're going to be learning more about html, css, and javascript over the weeks to come, but I want you to play around with this example and see if you get some cool results.
+
+## Navigate to this [Repo](https://github.com/DunkFig/DemoSite01 target=blank)
 
