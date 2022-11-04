@@ -66,5 +66,5 @@ anything you put between them will be text that lives inside that div. If you wa
 ```
 Lets see how this looks in action, obviously we're going to be learning more about html, css, and javascript over the weeks to come, but I want you to play around with this example and see if you get some cool results.
 
-## Navigate to this [Repo](https://github.com/DunkFig/DemoSite01 target=blank)
+## Navigate to this [Repo](https://github.com/DunkFig/DemoSite01)
 
