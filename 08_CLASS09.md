@@ -67,6 +67,29 @@ anything you put between them will be text that lives inside that div. If you wa
 ```
 Great! no we have a div that we have parented our p5 canvas to. Lets move onto stylization by referring to this in our CSS file. 
 
+## <a> tags
+ One thing you'll notice about quite a bit of websites is that they typically have more than one page, often they have dozens. Its Impotant to know how to link to other pages while your using html. Using an *anchor tag* is how you do this.
+
+ ```
+<a>             </a>
+ ```
+ 
+ They look just like this. If you put anything between them it will display on the page in the same way it does with a div.
+ However if you add this code:
+ 
+  ```
+<a href="somewebsite.com">             </a>
+ ```
+It will navigate to whatever webpage that you want it to. This is not only how we refer to external links, but also internal links. Everyone go ahead and create a *new* htnml file. Take a few minutes to add some nice text, stylize it if you want. 
+ 
+Now create an anchor tag on your first html page, and link to it in your anchor tab.
+ 
+ ```
+<a href="other.html">             </a>
+ ```
+ Try it out, does it work?
+ 
+## 
 
 
 ##  Websites as Art, Websites as activism
