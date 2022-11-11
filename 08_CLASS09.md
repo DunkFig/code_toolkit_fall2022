@@ -173,6 +173,7 @@ Lets see if this works!
 
 
 ##  Websites as Art, Websites as activism
+- (Sara B) [https://s-n-d.si/]
 
 - (The Apartment - Sam Levigne, Tega Brain)[https://whitney.org/artport-commissions/new-york-apartment/index.html]
 - (The Yes Men - hijinks) [https://theyesmen.org/hijinks-all]
