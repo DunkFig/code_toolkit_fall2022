@@ -67,7 +67,7 @@ anything you put between them will be text that lives inside that div. If you wa
 ```
 Great! no we have a div that we have parented our p5 canvas to. Lets move onto stylization by referring to this in our CSS file. 
 
-## <a> tags
+## anchor tags
  One thing you'll notice about quite a bit of websites is that they typically have more than one page, often they have dozens. Its Impotant to know how to link to other pages while your using html. Using an *anchor tag* is how you do this.
 
  ```
@@ -89,7 +89,87 @@ Now create an anchor tag on your first html page, and link to it in your anchor 
  ```
  Try it out, does it work?
  
-## 
+ 
+## Inputs on HTML
+
+### Buttons
+Another thing your going to want to add to a lot of your website are dynamic buttons that are capable of doing a variety fo things. Go ahead and create a button based on the code below. You'll see the code in between the brackets gets written on the button. Go ahead and play around with stylizing it!
+
+```
+<button type="button">Click Me!</button>
+```
+
+Now this is great, but this button does absolutely nothing. Lets say we wanted to have this button update the speed of our square every time that we pushed it. We're about to dive into the wild world of event handlers so hold on! 
+
+We won't be able to do this in just html, we're going to have to do this in javascript, in order to write javascript in a html file we'll need to add a script tag:
+
+```
+        <script>
+
+        </script>
+```
+Anything that we write in here will be executed in javascript. So before we do anything lets write out in pseudocode what we're *trying* to do.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+```
+        <script>
+            function changeSpeed(){
+                xSpeed += 5
+            }
+
+            let button = document.getElementById('button')
+            button.addEventListener('click', changeSpeed)
+
+        </script>
+```
+
+
+
+### Sliders
+Sometimes we'll want to add something like a range slider to our html, that we can use to change something in our javascript or p5. 
+
+There area variety of inputs in html and javascript, what are a few you can think of?
+
+the way that we add a slider is by adding an 'input' tag like this, for best practices, lets also put this in its own little div.
+
+```
+<div class="slidecontainer">
+  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+</div>
+```
+You'll see a few things here, we've specified the type, it's minimum, its max, and the value that ity'll be starting at, then we've give it a neat id. Lets go ahead and turn this element into a javascript variable as well. 
+
+```
+  
+        <script>
+
+           let sliderVal = document.getElementById('myRange').value
+           slider.addEventListener("change", updateSlide)
+
+           function updateSlide(){
+                yPos = sliderVal
+            }
+            
+        </script>
+
+```
+
+Lets see if this works!
 
 
 ##  Websites as Art, Websites as activism
