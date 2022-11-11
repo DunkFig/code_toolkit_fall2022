@@ -71,9 +71,9 @@ Great! no we have a div that we have parented our p5 canvas to. Lets move onto s
 
 ##  Websites as Art, Websites as activism
 
-(The Apartment - Sam Levigne, Tega Brain)[https://whitney.org/artport-commissions/new-york-apartment/index.html]
-(The Yes Men - hijinks) [https://theyesmen.org/hijinks-all]
+- (The Apartment - Sam Levigne, Tega Brain)[https://whitney.org/artport-commissions/new-york-apartment/index.html]
+- (The Yes Men - hijinks) [https://theyesmen.org/hijinks-all]
 
-(Her Visions) [https://www.hervisions.world/projects]
-(Control the Virus) [https://controlthevirus.art/]
-(Geo Goo)[https://geogoo.net/]
+- (Her Visions) [https://www.hervisions.world/projects]
+- (Control the Virus) [https://controlthevirus.art/]
+- (Geo Goo)[https://geogoo.net/]
